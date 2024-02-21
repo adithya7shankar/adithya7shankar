@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **adithya7shankar/adithya7shankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
