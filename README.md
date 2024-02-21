@@ -1,10 +1,10 @@
 ### Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[github](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]
 
 <!--
 **adithya7shankar/adithya7shankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
+![github](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
