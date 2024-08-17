@@ -29,13 +29,13 @@ With experience spanning across various sectors, I specialize in developing inno
 
 ### 🌟 Achievements
 - **Graphene-based ISFET Chemisensor:** Developed an Artificial Neural Network (ANN) achieving 99% accuracy in multi-class classification, a breakthrough in advanced chemisensor systems.
-- **Autonomous Drone Development:** Extended drone flight time by 30% through EDGE computing and autonomy enhancements using Nvidia Jetson Nano.
+- **Autonomous Drone Development:** Extended drone flight time by 30% through EDGE computing and autonomy enhancements using Nvidia Jetson Nano and on-board NDVI and Semantic Segmentation.
 - **Cost-efficient Home Surveillance:** Reduced the cost of home surveillance systems by 50% using a combination of affordable hardware components and computer vision technologies.
 - **Published Research:** Contributed to the field with publications in IEEE and Springer, including works on smart aquaculture management systems and crop health monitoring using UAVs.
 
 ---
 
-### 📈 What I'm Working On
+### 📈 What I have worked on
 - **AI-Powered Traffic Analysis:** Developing a privacy-preserving traffic detection system with over 90% accuracy, ensuring zero identifiable signatures.
 - **Reinforcement Learning in Gaming:** Training AI models using PPO algorithms to surpass human-level performance in complex gaming environments like Rocket League.
 - **Cloud-Integrated IoT Solutions:** Building IoT frameworks that leverage cloud computing for enhanced performance and real-time data processing.
