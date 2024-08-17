@@ -4,22 +4,53 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adithya7shankar/)
 
+I'm **Adithya Kambat Shankar**, a highly motivated and skilled Machine Learning and Robotics Engineer with a deep passion for pushing the boundaries of technology. Currently pursuing my MSc in Electrical Engineering at Pennsylvania State University, I bring a strong background in AI/ML, Computer Vision, IoT, and Embedded Systems to every project I undertake.
 
-<!--
-**adithya7shankar/adithya7shankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![github](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-(https://www.linkedin.com/in/adithya7shankar/)
+---
 
-Here are some ideas to get you started:
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
- [GitHub Pages](https://pages.github.com/)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+With experience spanning across various sectors, I specialize in developing innovative solutions that blend machine learning with embedded systems. My work is driven by a passion for leveraging AI to solve complex problems and enhance everyday life through automation and smart technologies.
+
+- **Machine Learning & AI:** Proficient in developing and deploying neural networks, including advanced architectures like LSTMs, GANs, and Transformers. Achieved 99% accuracy in multi-class classification tasks and optimized AI models for efficiency and scalability.
+- **Computer Vision:** Expertise in implementing Semantic Segmentation, Object Detection, and Image Classification on various platforms, including Nvidia Jetson, to enable real-time image processing and decision-making.
+- **Embedded Systems & IoT:** Designed and deployed autonomous systems integrating sensors and microcontrollers. Successfully implemented SLAM for autonomous robots and developed IoT solutions that reduce energy consumption and enhance remote accessibility.
+- **Cloud Computing:** Hands-on experience with AWS, leveraging EC2, S3, and other cloud services to create scalable and efficient data processing pipelines.
+
+---
+
+### 🛠 Skills & Tools
+- **Programming Languages:** Python, C, C++, Matlab
+- **AI & Data Science:** PyTorch, Keras, scikit-learn, TensorFlow, HuggingFace, LangChain
+- **Embedded & Robotics:** ROS, SLAM, Arduino, Raspberry Pi, Nvidia Jetson, ESP8266/ESP32
+- **Cloud Platforms:** AWS (S3, EC2), GCP, PostGres
+- **Others:** OpenCV, Conda, Git, MATLAB
+
+---
+
+### 🌟 Achievements
+- **Graphene-based ISFET Chemisensor:** Developed an Artificial Neural Network (ANN) achieving 99% accuracy in multi-class classification, a breakthrough in advanced chemisensor systems.
+- **Autonomous Drone Development:** Extended drone flight time by 30% through EDGE computing and autonomy enhancements using Nvidia Jetson Nano.
+- **Cost-efficient Home Surveillance:** Reduced the cost of home surveillance systems by 50% using a combination of affordable hardware components and computer vision technologies.
+- **Published Research:** Contributed to the field with publications in IEEE and Springer, including works on smart aquaculture management systems and crop health monitoring using UAVs.
+
+---
+
+### 📈 What I'm Working On
+- **AI-Powered Traffic Analysis:** Developing a privacy-preserving traffic detection system with over 90% accuracy, ensuring zero identifiable signatures.
+- **Reinforcement Learning in Gaming:** Training AI models using PPO algorithms to surpass human-level performance in complex gaming environments like Rocket League.
+- **Cloud-Integrated IoT Solutions:** Building IoT frameworks that leverage cloud computing for enhanced performance and real-time data processing.
+
+---
+
+### 🤝 Let's Collaborate!
+I'm always on the lookout for exciting opportunities to collaborate on groundbreaking projects in AI, IoT, and Robotics. If you're working on something innovative and think we could create something amazing together, feel free to reach out!
+
+- **Email:** [adithya7shankar@gmail.com](mailto:adithya7shankar@gmail.com)
+- **LinkedIn:** [linkedin.com/in/adithya7shankar](https://www.linkedin.com/in/adithya7shankar/)
+
+---
+
+### ⚡ Fun Fact
+When I’m not coding or working on my next big project, you can find me exploring the latest advancements in AI, or tinkering with DIY electronics and robotics kits. I’m passionate about learning and always eager to dive into new challenges!
+
+Check out my repositories and see the work I’ve been doing! 🚀
