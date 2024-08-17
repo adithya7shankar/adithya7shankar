@@ -51,6 +51,5 @@ I'm always on the lookout for exciting opportunities to collaborate on groundbre
 ---
 
 ### ⚡ Fun Fact
-When I’m not coding or working on my next big project, you can find me exploring the latest advancements in AI, or tinkering with DIY electronics and robotics kits. I’m passionate about learning and always eager to dive into new challenges!
-
+When I'm not deep in code or driving my next groundbreaking project, you'll likely find me exploring cutting-edge advancements in AI or getting hands-on with DIY electronics and robotics kits. And if you catch me on Steam, I'm probably strategizing in Dota 2 or scoring goals in Rocket League with friends. I'm driven by a passion for continuous learning and thrive on tackling new challenges head-on!
 Check out my repositories and see the work I’ve been doing! 🚀
