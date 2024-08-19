@@ -19,7 +19,7 @@ With experience spanning across various sectors, I specialize in developing inno
 ---
 
 ### 🛠 Skills & Tools
-- **Programming Languages:** Python, C, C++, Matlab
+- **Programming Languages:** Python, C, C++, Matlab, Rust
 - **AI & Data Science:** PyTorch, Keras, scikit-learn, TensorFlow, HuggingFace, LangChain
 - **Embedded & Robotics:** ROS, SLAM, Arduino, Raspberry Pi, Nvidia Jetson, ESP8266/ESP32
 - **Cloud Platforms:** AWS (S3, EC2), GCP, PostGres
