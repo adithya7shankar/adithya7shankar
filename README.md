@@ -9,7 +9,7 @@ I'm **Adithya Kambat Shankar**, a Machine Learning and Robotics Engineer with a 
 ---
 
 ### 🚀 What I Do
-With experience spanning across various sectors, I specialize in developing innovative solutions that blend machine learning with embedded systems. My work is driven by a passion for leveraging AI to solve complex problems and enhance everyday life through automation and smart technologies.
+I specialize in developing innovative solutions that blend machine learning and embedded systems. My work is driven by a passion for leveraging AI to solve complex problems and enhance everyday life through automation and smart technologies.
 
 - **Machine Learning & AI:** Proficient in developing and deploying neural networks, including advanced architectures like LSTMs, GANs, and Transformers. Achieved 99% accuracy in multi-class classification tasks and optimized AI models for efficiency and scalability.
 - **Computer Vision:** Expertise in implementing Semantic Segmentation, Object Detection, and Image Classification on various platforms, including Nvidia Jetson, to enable real-time image processing and decision-making.
