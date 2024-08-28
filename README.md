@@ -42,6 +42,13 @@ I specialize in developing innovative solutions that blend machine learning and 
 
 ---
 
+### 📈 What I am currently working on
+- **AI-Powered Traffic Analysis:** Developing a privacy-preserving traffic detection system with over 90% accuracy, ensuring zero identifiable signatures, making improvements to the simulation models and the detection algorithms.
+
+
+---
+
+
 ### 🤝 Let's Collaborate!
 I'm always on the lookout for exciting opportunities to collaborate on groundbreaking projects in AI, IoT, and Robotics. If you're working on something innovative and think we could create something amazing together, feel free to reach out!
 
