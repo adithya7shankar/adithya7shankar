@@ -13,7 +13,7 @@ I specialize in developing innovative solutions that blend machine learning and 
 
 - **Machine Learning & AI:** Proficient in developing and deploying neural networks, including advanced architectures like LSTMs, GANs, and Transformers. Achieved 99% accuracy in multi-class classification tasks and optimized AI models for efficiency and scalability.
 - **Computer Vision:** Expertise in implementing Semantic Segmentation, Object Detection, and Image Classification on various platforms, including Nvidia Jetson, to enable real-time image processing and decision-making.
-- **Embedded Systems & IoT:** Designed and deployed autonomous systems integrating sensors and microcontrollers. Successfully implemented SLAM for autonomous robots and developed IoT solutions that reduce energy consumption and enhance remote accessibility.
+- **Embedded Systems & IoT:** Designed and optimized autonomous systems, reducing hardware costs and improving efficiency by integrating SLAM for robots and leveraging microcontrollers like Arduino and Raspberry Pi. Developed a low-cost home surveillance system using wireless sensor networks (WSNs), cutting costs by 50% through strategic use of affordable components. Engineered a lightweight drone platform, reducing take-off weight by 300% and improving power economy using advanced PCB design and custom carbon fiber materials.
 - **Cloud Computing:** Hands-on experience with AWS, leveraging EC2, S3, and other cloud services to create scalable and efficient data processing pipelines.
 
 ---
