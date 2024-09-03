@@ -39,7 +39,7 @@ I specialize in developing innovative solutions that blend machine learning and 
 - **AI-Powered Traffic Analysis:** Developing a privacy-preserving traffic detection system with over 90% accuracy, ensuring zero identifiable signatures.
 - **Reinforcement Learning in Gaming:** Training AI models using PPO algorithms to surpass human-level performance in complex gaming environments like Rocket League.
 - **Cloud-Integrated IoT Solutions:** Building IoT frameworks that leverage cloud computing for enhanced performance and real-time data processing.
-
+- **Stock trading with ARIMA models:** Building an ARIMA model to help predict stock price trends. Invested in stocks without outliers and got a YoY return of 25% on average.
 ---
 
 ### 📈 What I am currently working on
