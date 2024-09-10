@@ -20,7 +20,7 @@ I specialize in developing innovative solutions that blend machine learning and 
 
 ### 🛠 Skills & Tools
 - **Programming Languages:** Python, C, C++, Matlab, Rust
-- **AI & Data Science:** PyTorch, Keras, scikit-learn, TensorFlow, HuggingFace, LangChain
+- **AI & Data Science:** PyTorch, Keras, Scikit-learn, TensorFlow, HuggingFace, LangChain
 - **Embedded & Robotics:** ROS, SLAM, Arduino, Raspberry Pi, Nvidia Jetson, ESP8266/ESP32, STM32
 - **Cloud Platforms:** AWS (S3, EC2), GCP, PostGres
 - **Others:** OpenCV, Conda, Git, MATLAB
