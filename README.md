@@ -28,7 +28,7 @@ I specialize in developing innovative solutions that blend machine learning and 
 ---
 
 ### 🌟 Achievements
-- **Graphene-based ISFET Chemisensor:** Developed an Artificial Neural Network (ANN) achieving 99% accuracy in multi-class classification, a breakthrough in advanced chemisensor systems.
+- **Graphene-based ISFET Chemisensor:** Developed an Artificial Neural Network (ANN) with Tensorflow, achieving 99% accuracy in multi-class classification, a breakthrough in advanced chemisensor systems.
 - **Autonomous Drone Development:** Extended drone flight time by 30% through EDGE computing and autonomy enhancements using Nvidia Jetson Nano and on-board NDVI and Semantic Segmentation.
 - **Cost-efficient Home Surveillance:** Reduced the cost of home surveillance systems by 50% using a combination of affordable hardware components and computer vision technologies.
 - **Published Research:** Contributed to the field with publications in IEEE and Springer, including works on smart aquaculture management systems and crop health monitoring using UAVs.
