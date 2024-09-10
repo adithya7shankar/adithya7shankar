@@ -44,7 +44,7 @@ I specialize in developing innovative solutions that blend machine learning and 
 
 ### 📈 What I am currently working on
 - **AI-Powered Traffic Analysis:** Developing a privacy-preserving traffic detection system with over 90% accuracy, ensuring zero identifiable signatures, making improvements to the simulation models and the detection algorithms.
-- **AI for Healthcare:** Training a multi-modal AI solution for improving patient outcomes, leveraging multiple models to build a cohesive system.
+- **AI for Healthcare:** Training a multi-modal AI solution for improving patient outcomes, leveraging multiple models to build a cohesive system. By utilizing different models for each modality and aggregating their outputs into a unified system, healthcare providers can offer more personalized and data-driven treatment plans.
 - **Neural Networks on Rust:** Building projects on microcontrollers and using rust to develop some parallels to the projects I am working on.
 ---
 
