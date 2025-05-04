@@ -4,7 +4,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adithya7shankar/)
 
-I'm **Adithya Kambat Shankar**, a Machine Learning and Robotics Engineer with a deep passion for pushing the boundaries of technology. Graduated with MSc in Electrical Engineering at Pennsylvania State University, I bring a strong background in AI/ML, Computer Vision, IoT, and Embedded Systems.
+I'm **Adithya Kambat Shankar**, a Machine Learning and Robotics Engineer with a deep passion for pushing the boundaries of technology. Graduated with MSc in Electrical Engineering at Pennsylvania State University, I bring a strong background in AI and Machine Learning.
 
 ---
 
